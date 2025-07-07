@@ -1,5 +1,2 @@
 pandas
 pytest
-
-
--e .
